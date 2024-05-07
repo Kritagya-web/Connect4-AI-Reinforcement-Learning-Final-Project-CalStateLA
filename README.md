@@ -18,5 +18,5 @@ The aim of this notebook is to implement and train an agent on the game of Conne
 5. **Evaluation**: Evaluate the trained neural network's ability to recognize critical game states, such as immediate wins or blocks as a performance heuristic.
 
 
-## This Branch contains the report for the Entire Project.
+## This Branch contains the report for the Entire Project with the notebook containing the entire model.
 ## See Branch master to see the implementation of all the things using python.
