@@ -16,3 +16,7 @@ The aim of this notebook is to implement and train an agent on the game of Conne
 3. **Self-play**: Utilize Minimax guided by the neural network to generate self-play data. The agent plays against itself to explore the game tree.
 4. **Training**: Update the neural network weights based on the outcomes and search probabilities obtained during self-play.
 5. **Evaluation**: Evaluate the trained neural network's ability to recognize critical game states, such as immediate wins or blocks as a performance heuristic.
+
+
+## This Branch contains the report for the Entire Project.
+## See Branch master to see the implementation of all the things using python.
