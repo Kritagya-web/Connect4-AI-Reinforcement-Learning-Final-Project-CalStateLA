@@ -1,11 +1,11 @@
-# Connect 4 using Minimax Algorithm By Group 7 for Reinforcement Learning Final Project
+# Connect 4 using Minimax Algorithm By Group 6 for Reinforcement Learning Final Project
 
 <img src="https://i.imgur.com/PFz0byC.jpg" 
      align="justify" 
      width="400" />
 
 ## Team
-This is a collaborative effort of group 7 (Kritagya Kumra, Aakash Chavan, Daniel Macias, Janvi Navdiya, and Jaswant Reddy Bota.
+This is a collaborative effort of group 6 (Kritagya Kumra, Aakash Chavan, Daniel Macias, Janvi Navdiya, and Jaswant Reddy Bota ).
 
 ## Objective
 The aim of this notebook is to implement and train an agent on the game of Connect 4 using Minimax Algorithm. We aim to explore how well Minimax can adapt and optimize its gameplay in the context of Connect 4.
